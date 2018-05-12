@@ -11,13 +11,13 @@ creator:
     gutenberg_agent_id: '41354'
     url: http://www.gutenberg.org/2009/agents/41354
   - agent_name: Sollmann, Torald Hermann
-    birthdate: &id001 1874
+    birthdate: 1874
     deathdate: 1965
     gutenberg_agent_id: '41352'
     url: http://www.gutenberg.org/2009/agents/41352
   - agent_name: Hewlett, Albion Walter
     alias: Hewlett, A. W. (Albion Walter)
-    birthdate: *id001
+    birthdate: 1874
     deathdate: 1925
     gutenberg_agent_id: '41351'
     url: http://www.gutenberg.org/2009/agents/41351
@@ -28,6 +28,8 @@ creator:
     gutenberg_agent_id: '41353'
     url: http://www.gutenberg.org/2009/agents/41353
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41778#Epitome-of-the-Pharmacopeia-of-the-United-States-and-the-National-FormularyWith-Comments
 gutenberg_issued: '2013-01-04'
 gutenberg_type: Text
 identifiers:
