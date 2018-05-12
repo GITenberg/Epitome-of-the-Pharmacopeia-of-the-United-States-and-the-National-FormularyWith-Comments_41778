@@ -1,0 +1,46 @@
+_repo: Epitome-of-the-Pharmacopeia-of-the-United-States-and-the-National-FormularyWith-Comments_41778
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41778-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Puckner, William August
+    alias: Puckner, W. A.
+    birthdate: 1864
+    gutenberg_agent_id: '41354'
+    url: http://www.gutenberg.org/2009/agents/41354
+  - agent_name: Sollmann, Torald Hermann
+    birthdate: &id001 1874
+    deathdate: 1965
+    gutenberg_agent_id: '41352'
+    url: http://www.gutenberg.org/2009/agents/41352
+  - agent_name: Hewlett, Albion Walter
+    alias: Hewlett, A. W. (Albion Walter)
+    birthdate: *id001
+    deathdate: 1925
+    gutenberg_agent_id: '41351'
+    url: http://www.gutenberg.org/2009/agents/41351
+  - agent_name: Wilbert, Martin I. (Martin Inventius)
+    alias: Wilbert, M. I. (Martin Inventius)
+    birthdate: 1865
+    deathdate: 1916
+    gutenberg_agent_id: '41353'
+    url: http://www.gutenberg.org/2009/agents/41353
+description: ''
+gutenberg_issued: '2013-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41778'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine -- Formulae, receipts, prescriptions'
+- !lcsh 'Pharmacopoeias -- United States'
+- !lcc 'RS'
+title: 'Epitome of the Pharmacopeia of the United States and the National Formulary
+
+  With Comments'
+url: http://www.gutenberg.org/ebooks/41778
